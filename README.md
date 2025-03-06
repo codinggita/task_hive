@@ -23,7 +23,7 @@
     
 - *   **Authentication:** Auth0<br />
     
-- *   **Frontend:** React.js (Coming Soon)<br />
+- *   **Frontend:** React.js <br />
     
 
 -- **🔗 Live Links**<br />
@@ -34,16 +34,6 @@
 - *   **Backend Deployment:** \[https://taskhive-2.onrender.com\]<br />
     
 
--- **⚙️ Backend Setup**<br />
---------------------<br />
-
-- 1.  shCopyEditgit clone https://github.com/yourusername/task\_hive.gitcd task\_hive<br />
-    
-- 2.  shCopyEditnpm install<br />
-    
-- 3.  Create a .env file and add necessary environment variables.<br />
-    
-- 4.  shCopyEditnpm run dev<br />
     
 
   - **🚀 Frontend Development **<br />
