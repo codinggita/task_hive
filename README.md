@@ -68,13 +68,7 @@
 - Headless UI
 - Tailwind CSS
 
-### Backend
-- Node.js with Express.js
 
-### Database
-- MongoDB for efficient and scalable data storage.
-
--The Cloud-Based Task Manager is an innovative solution that enhances efficiency and organization within teams. By harnessing the power of the MERN stack and modern frontend technologies, the platform provides a seamless experience for both administrators and users, fostering collaboration and productivity.
 
 ---
 
