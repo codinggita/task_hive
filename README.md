@@ -21,7 +21,7 @@
 
 - *   **Backend:** Node.js, Express.js, MongoDB<br />
     
-- *   **Authentication:** Auth0<br />
+- *   **Authentication:** firbase<br />
     
 - *   **Frontend:** React.js <br />
     
