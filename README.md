@@ -26,12 +26,7 @@
 - *   **Frontend:** React.js <br />
     
 
--- **🔗 Live Links**<br />
------------------<br />
 
-- *   **Postman Collection:** \[https://documenter.getpostman.com/view/39216496/2sAYdZvEZR\]<br />
-    
-- *   **Backend Deployment:** \[https://taskhive-2.onrender.com\]<br />
     
 
     
